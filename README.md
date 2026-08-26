@@ -39,6 +39,16 @@ Here is a preview of the high-definition anatomical diagram generated for your f
 
 ---
 
+## 🦾 Master Systems & Movement References
+To support your studies, this repository includes comprehensive, modular databases:
+*   **[Master Muscle Reference Guide](./muscles/README.md)**: Covers every skeletal muscle in the human body, detailing origin, insertion, innervation, and joint actions.
+*   **[Master Skeletal Reference Guide](./bones/README.md)**: Covers all 208+ bones in the human body, highlighting bony landmarks and mapping their mechanical linkages (origins/insertions) to the muscles.
+*   **[Master Pose Corrections Directory](./pose_corrections/)**: A centralized biomechanical library divided into Yoga, Calisthenics, and Gym exercises with detailed safety precautions and sensory cues.
+
+Each region is accompanied by custom high-definition 3D medical illustrations.
+
+---
+
 ## 🚀 How to Start Your Learning
 1.  Open the central progress tracker: [`tracker.md`](./tracker.md).
 2.  Navigate to the current day's notes folder.
@@ -54,6 +64,45 @@ Here is a preview of the high-definition anatomical diagram generated for your f
 /
 ├── README.md                     # Repository landing page
 ├── tracker.md                    # Progress tracker with daily status checklist
+├── muscles/                      # Comprehensive muscle reference guide
+│   ├── README.md                 # Master muscles index
+│   ├── guides/                   # Learning resources and study guides
+│   │   ├── study_guide.md        # Layman study guide
+│   │   ├── resources_index.md    # Video & resource list
+│   │   └── skeletomuscular_map.md # Bone landmark to muscle attachment mapping
+│   ├── regions/                  # Regional anatomy documents
+│   │   ├── 01_head_neck_face/    # Head, neck, and face musculature
+│   │   │   ├── anatomy.md
+│   │   │   └── pose_corrections.md
+│   │   ├── 02_back_spine/        # Superficial and deep spinal muscles
+│   │   │   ├── anatomy.md
+│   │   │   └── pose_corrections.md
+│   │   ├── 03_thorax_abdomen/    # Chest, abdomen, and respiration
+│   │   │   ├── anatomy.md
+│   │   │   └── pose_corrections.md
+│   │   ├── 04_upper_limb/        # Shoulder, arm, and hand muscles
+│   │   │   ├── anatomy.md
+│   │   │   └── pose_corrections.md
+│   │   ├── 05_pelvis_perineum/   # Pelvic floor and perineal muscles
+│   │   │   ├── anatomy.md
+│   │   │   └── pose_corrections.md
+│   │   └── 06_lower_limb/        # Hips, glutes, thighs, and foot muscles
+│   │       ├── anatomy.md
+│   │       └── pose_corrections.md
+│   └── images/                   # Labeled anatomical illustrations
+├── bones/                        # Comprehensive skeletal reference guide (208+ Bones)
+│   ├── README.md                 # Master bones index
+│   ├── regions/                  # Regional skeletal documents
+│   │   ├── 01_skull_hyoid.md     # Skull and neck girdle bones
+│   │   ├── 02_vertebrae_thorax.md # Spine and thoracic cage
+│   │   ├── 03_pectoral_upper_limb.md # Arm, forearm, and hand bones
+│   │   └── 04_pelvic_lower_limb.md # Pelvis, leg, and foot bones
+│   └── images/                   # Labeled skeletal illustrations
+├── pose_corrections/             # Centralized movement biomechanics & safety guides
+│   ├── README.md                 # Master pose corrections index
+│   ├── calisthenics/             # Pull-ups, dips, handstands, L-sits, push-ups
+│   ├── yoga/                     # Asanas: downward dog, cobra, crescent, wheel, bridge, etc.
+│   └── gym/                      # Back squat, conventional/Romanian deadlift, overhead/bench press
 ├── days/
 │   ├── day-001-planes-of-motion/
 │   │   ├── README.md             # Detailed lesson notes, biomechanics application, and quiz
