@@ -28,6 +28,7 @@ Welcome to the centralized movement biomechanics and joint safety library. This 
 *   **[Crow Pose (Kakasana)](./yoga/crow_pose.md)**: Scapular protraction to distribute load away from wrist joints.
 *   **[Forward Fold (Uttanasana)](./yoga/forward_fold.md)**: Quadriceps engagement (reciprocal inhibition) to release hamstring tendons safely.
 *   **[Tree Pose (Vrksasana)](./yoga/tree_pose.md)**: Standing leg Gluteus Medius engagement to prevent lateral hip flaring and pelvic drop.
+*   **[Extended Triangle Pose (Utthita Trikonasana)](./yoga/utthita_trikonasana.md)**: Frontal plane hinge, stabilizing standing knees and hips to avoid hyperextension.
 
 ---
 

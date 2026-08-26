@@ -24,6 +24,10 @@ For step-by-step instructions, joint safety notes, and sensory mind-muscle cues,
 *   *Biomechanical Target:* Standing Gluteus Medius recruitment.
 *   *🛡️ Joint Safety:* Prevents lateral standing hip flare, protecting the IT Band and hip socket.
 
+### 5. **[Extended Triangle Pose (Utthita Trikonasana)](../../../pose_corrections/yoga/utthita_trikonasana.md)**
+*   *Biomechanical Target:* Recruits Gluteus Medius, Obliques, and Quadriceps; stretches front hamstrings and adductors.
+*   *🛡️ Joint Safety:* Prevents front knee hyperextension and lateral lumbar collapsing.
+
 ---
 
 ## 🤸 Study & Practice Links
