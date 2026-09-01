@@ -109,11 +109,25 @@ Joint actions are the movements that occur at specific articulations (joints):
 
 ---
 
-## 🎨 Visual Diagram
+## 🎨 Visual Diagram: Comparative Joint Actions
 
-Here is a 3D medical visual atlas illustrating standard anatomical orientation vectors and the primary joint action pairs:
+Here is a high-contrast, side-by-side comparative visual guide illustrating opposing joint actions with color-coded directional vectors (cyan = moving away/opening, orange = moving toward/closing):
 
-![Introduction to Anatomical Direction & Joint Actions](./images/directional_terms_joint_actions.jpg)
+![Comparative Joint Actions Guide](./images/comparative_joint_actions_guide.jpg)
+
+---
+
+## ⚡ High-Yield Mental Mnemonics (Never Confuse Opposing Pairs Again)
+
+To ensure you instantly distinguish between opposing movement terms in any exercise, use these mental anchors:
+
+| Opposing Action Pair | Visual Contrast & Mental Anchor | Real-World Movement Check |
+| :--- | :--- | :--- |
+| **Abduction** vs. **Adduction** | • **AB-duction:** Think of an *alien abducting* someone (taking them **away** from the midline).<br>• **AD-duction:** Think of **adding** a limb back into your body (bringing it **together** across the midline). | • Jumping Jacks: Jumping feet wide = **Abduction**; snapping feet together = **Adduction**. |
+| **Protraction** vs. **Retraction** | • **PRO-traction:** **P**ush forward & dome upper back (**Serratus Anterior** spreads blades wide around ribs).<br>• **RE-traction:** **R**eturn & pinch shoulder blades together (**Rhomboids** squeeze pencil between blades). | • Push-up top lockout = **Protraction**.<br>• Barbell Row chest touch = **Retraction**. |
+| **Flexion** vs. **Extension** | • **Flexion:** **Decreasing** joint angle (folding, curling, bending into a tight acute angle).<br>• **Extension:** **Increasing** joint angle (opening, reaching, straightening out to $180^\circ$ neutral). | • Biceps Curl concentric = **Flexion**.<br>• Triceps Kickback lockout = **Extension**. |
+| **Supination** vs. **Pronation** | • **SUPIN-ation:** Turning palm face up to carry a bowl of **Soup** (biceps contracts firmly).<br>• **PRON-ation:** Turning palm face down to **Pour** it out (pronator teres engages). | • Chin-up grip = **Supinated**.<br>• Pull-up grip = **Pronated**. |
+| **Dorsiflexion** vs. **Plantarflexion** | • **DORSI-flexion:** Pulling toes up toward the shin (like the **dorsal** fin of a dolphin pointing up).<br>• **PLANTAR-flexion:** Pointing toes downward to **plant** them into the ground (like a ballet dancer). | • Heel walks = **Dorsiflexion**.<br>• Standing Calf Raise = **Plantarflexion**. |
 
 ---
 
