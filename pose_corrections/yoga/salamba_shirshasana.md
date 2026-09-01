@@ -1,4 +1,4 @@
-# 🧘‍♀️ Supported Headstand (Shirshasana / Salamba Sirsasana)
+# 🧘‍♀️ Salamba Shirshasana (सालम्ब शीर्षासन - Supported Headstand)
 
 *   **Classification:** Full-body vertical inversion / isometric balance hold; sagittal/frontal plane; Closed Kinetic Chain (forearms/elbows and crown of head base of support).
 *   **Muscles Involved:**
@@ -37,7 +37,7 @@ The cervical spine (C1–C7 vertebrae) is biomechanically engineered to hold app
 ### 1. The 80/20 Load Distribution Rule
 *   **70% to 80%** of your total body weight must be borne by your **forearms, elbows, and shoulders**.
 *   Only **20% to 30%** (a light, stabilizing touch) should rest on the crown of your head.
-*   *Warning:* If your shoulders tire and you sink into the neck, immediately come down into Child's Pose. Resting heavy body weight on relaxed shoulders compresses cervical discs and facet joints.
+*   *Warning:* If your shoulders tire and you sink into the neck, immediately come down into Child's Pose (Balasana). Resting heavy body weight on relaxed shoulders compresses cervical discs and facet joints.
 
 ### 2. Precise Crown Alignment (Avoid Cervical Shear)
 *   **❌ Forehead Placement (Hyper-extension):** Causes a cervical crunch at C4–C7, pinching facet joints, jamming the occipital nerves, and constricting the vertebral arteries.
@@ -51,7 +51,7 @@ The cervical spine (C1–C7 vertebrae) is biomechanically engineered to hold app
 *   Never kick up with momentum against a wall or in open space. Kicking delivers sudden dynamic impact shocks to the cervical vertebrae and risks losing control. Master the tucked core lift before extending the legs.
 
 ### 5. Exit into Child's Pose (Balasana)
-*   After lowering down under control, rest with your forehead on the mat in Child's Pose for 5–8 slow breaths. Do not immediately snap your head upright, allowing cervical blood pressure and spinal fluid pressure to normalize gradually.
+*   After lowering down under control, rest with your forehead on the mat in Child's Pose (Balasana) for 5–8 slow breaths. Do not immediately snap your head upright, allowing cervical blood pressure and spinal fluid pressure to normalize gradually.
 
 ### 6. Medical Contraindications
 *   Avoid Shirshasana if you have high blood pressure, glaucoma, detached retina, history of neck/cervical disc herniations, or during acute neck stiffness/spasms.

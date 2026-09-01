@@ -101,7 +101,7 @@ Each region is accompanied by custom high-definition 3D medical illustrations.
 ├── pose_corrections/             # Centralized movement biomechanics & safety guides
 │   ├── README.md                 # Master pose corrections index
 │   ├── calisthenics/             # Pull-ups, dips, handstands, L-sits, push-ups
-│   ├── yoga/                     # Asanas: downward dog, cobra, crescent, wheel, bridge, etc.
+│   ├── yoga/                     # Authentic Asanas: Salamba Shirshasana, Bhujangasana, Adho Mukha Svanasana, etc.
 │   └── gym/                      # Back squat, conventional/Romanian deadlift, overhead/bench press
 ├── days/
 │   ├── day-001-planes-of-motion/

@@ -20,7 +20,7 @@ For step-by-step instructions, joint safety notes, and sensory mind-muscle cues,
 *   *Biomechanical Target:* Deltoid heads and Triceps Brachii force generation.
 *   *🛡️ Joint Safety:* Triangulates hands and head (tripod setup) to prevent subacromial impingement.
 
-### 4. **[Downward Dog & Dolphin Pose](../../../pose_corrections/yoga/downward_dog.md)**
+### 4. **[Adho Mukha Svanasana & Catur Svanasana (अधोमुखश्वानासन - Downward Dog & Dolphin Pose)](../../../pose_corrections/yoga/adho_mukha_svanasana.md)**
 *   *Biomechanical Target:* Recruits Infraspinatus, Teres Minor, and Serratus Anterior.
 *   *🛡️ Joint Safety:* Wraps outer armpits forward to prevent acromion impingement.
 

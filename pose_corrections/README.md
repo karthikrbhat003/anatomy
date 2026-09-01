@@ -17,19 +17,19 @@ Welcome to the centralized movement biomechanics and joint safety library. This 
 ---
 
 ### 🧘‍♀️ 2. Yoga Asanas
-*   **[The Chin Tuck](./yoga/chin_tuck.md)**: Deep cervical flexor activation (Longus Colli/Capitis) to reverse Tech-Neck.
-*   **[Cobra Pose (Bhujangasana)](./yoga/cobra_pose.md)**: Thoracic backbend extension, preventing lumbar L5-S1 facet pinching.
-*   **[Shoulder Stand (Sarvangasana)](./yoga/shoulder_stand.md)**: Cervical lordosis protection, resting weight on outer shoulders.
-*   **[Camel Pose (Ustrasana)](./yoga/camel_pose.md)**: Eccentric neck flexion control, preventing vertebral artery compression.
-*   **[Supported Headstand (Shirshasana)](./yoga/shirshasana.md)**: 80/20 forearm load distribution and neutral crown alignment to eliminate cervical spine compression.
-*   **[Downward Dog (Adho Mukha Svanasana)](./yoga/downward_dog.md)**: Scapular upward rotation to clear the subacromial space.
-*   **[Wheel Pose (Urdhva Dhanurasana)](./yoga/wheel_pose.md)**: Parallel thigh alignment, avoiding sacral pinching and SI joint shear.
-*   **[Crescent Lunge (Anjaneyasana)](./yoga/crescent_lunge.md)**: Posterior pelvic tilt to release the back psoas without lower back compression.
-*   **[Bridge Pose (Setu Bandhasana)](./yoga/bridge_pose.md)**: Adductor/pelvic floor co-activation to stabilize the pubic symphysis.
-*   **[Crow Pose (Kakasana)](./yoga/crow_pose.md)**: Scapular protraction to distribute load away from wrist joints.
-*   **[Forward Fold (Uttanasana)](./yoga/forward_fold.md)**: Quadriceps engagement (reciprocal inhibition) to release hamstring tendons safely.
-*   **[Tree Pose (Vrksasana)](./yoga/tree_pose.md)**: Standing leg Gluteus Medius engagement to prevent lateral hip flaring and pelvic drop.
-*   **[Extended Triangle Pose (Utthita Trikonasana)](./yoga/utthita_trikonasana.md)**: Frontal plane hinge, stabilizing standing knees and hips to avoid hyperextension.
+*   **[Jalandhara Bandha / Griva Sanchalana (जालंधर बन्ध / ग्रीवा सञ्चालन)](./yoga/jalandhara_bandha.md)**: Deep cervical flexor activation (Longus Colli/Capitis) to reverse Tech-Neck.
+*   **[Bhujangasana (भुजङ्गासन - Cobra Pose)](./yoga/bhujangasana.md)**: Thoracic backbend extension, preventing lumbar L5-S1 facet pinching.
+*   **[Salamba Sarvangasana (सालम्ब सर्वाङ्गासन - Supported Shoulder Stand)](./yoga/salamba_sarvangasana.md)**: Cervical lordosis protection, resting weight on outer shoulders.
+*   **[Ustrasana (उष्ट्रासन - Camel Pose)](./yoga/ustrasana.md)**: Eccentric neck flexion control, preventing vertebral artery compression.
+*   **[Salamba Shirshasana (सालम्ब शीर्षासन - Supported Headstand)](./yoga/salamba_shirshasana.md)**: 80/20 forearm load distribution and neutral crown alignment to eliminate cervical spine compression.
+*   **[Adho Mukha Svanasana (अधोमुखश्वानासन - Downward-Facing Dog)](./yoga/adho_mukha_svanasana.md)**: Scapular upward rotation to clear the subacromial space.
+*   **[Urdhva Dhanurasana / Chakrasana (ऊर्ध्वधनुरासन / चक्रासन - Wheel Pose)](./yoga/urdhva_dhanurasana.md)**: Parallel thigh alignment, avoiding sacral pinching and SI joint shear.
+*   **[Anjaneyasana (अञ्जनेयासन - Crescent Lunge)](./yoga/anjaneyasana.md)**: Posterior pelvic tilt to release the back psoas without lower back compression.
+*   **[Setu Bandhasana (सेतुबन्धासन - Bridge Pose)](./yoga/setu_bandhasana.md)**: Adductor/pelvic floor co-activation to stabilize the pubic symphysis.
+*   **[Kakasana / Bakasana (काकासन / बकासन - Crow & Crane Pose)](./yoga/kakasana.md)**: Scapular protraction to distribute load away from wrist joints.
+*   **[Uttanasana (उत्तानासन - Standing Forward Fold)](./yoga/uttanasana.md)**: Quadriceps engagement (reciprocal inhibition) to release hamstring tendons safely.
+*   **[Vrikshasana (वृक्षासन - Tree Pose)](./yoga/vrikshasana.md)**: Standing leg Gluteus Medius engagement to prevent lateral hip flaring and pelvic drop.
+*   **[Utthita Trikonasana (उत्थित त्रिकोणासन - Extended Triangle Pose)](./yoga/utthita_trikonasana.md)**: Frontal plane hinge, stabilizing standing knees and hips to avoid hyperextension.
 
 ---
 

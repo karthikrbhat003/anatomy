@@ -1,8 +1,8 @@
-# 🧘‍♀️ Bridge Pose (Setu Bandhasana)
+# 🧘‍♀️ Setu Bandhasana (सेतुबन्धासन - Bridge Pose)
 
 *   **Classification:** Sagittal plane spine backbend / hip extension; Closed Kinetic Chain.
 *   **Muscles Involved:**
-    *   *Agonists:* **[Gluteus Maximus](../../muscles/regions/06_lower_limb/anatomy.md#1-gluteal-region--deep-hip-rotators)**, **[Levator Ani](../../muscles/regions/05_pelvis_perineum/anatomy.md#3-deep-compartment-urogenital-diaphragm)** (pelvic floor / root lock).
+    *   *Agonists:* **[Gluteus Maximus](../../muscles/regions/06_lower_limb/anatomy.md#1-gluteal-region--deep-hip-rotators)**, **[Levator Ani](../../muscles/regions/05_pelvis_perineum/anatomy.md#3-deep-compartment-urogenital-diaphragm)** (pelvic floor / root lock / Mula Bandha).
     *   *Synergists:* Hamstrings, Erector Spinae.
     *   *Stabilizers:* Transversus Abdominis, Adductor Magnus.
 *   **Key Landmarks:** Levator ani originates from the pubis inner surface and ischial spine; inserts into the perineal body and coccyx.

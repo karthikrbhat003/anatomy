@@ -8,15 +8,15 @@ This index maps the pelvic floor activation, deep core containment, and root loc
 
 For step-by-step instructions, joint safety notes, and sensory mind-muscle cues, visit the individual guides:
 
-### 1. **[Pelvic Floor Elevations (Active Core Lifting)](../../../pose_corrections/yoga/bridge_pose.md)** (linked similarly, or under pelvic floor)
-*   *Biomechanical Target:* levator ani dynamic contract/release in sync with breathing.
-*   *🛡️ Joint Safety:* Prevents Valsalva "bearing down" to protect pelvic organs and SI joint ligaments.
+### 1. **[Mula Bandha & Ashwini Mudra (मूलबन्ध / अश्विनी मुद्रा - Pelvic Floor Elevations)](../../../pose_corrections/yoga/setu_bandhasana.md)**
+*   *Biomechanical Target:* Levator ani dynamic contraction/release in sync with diaphragmatic breathing.
+*   *🛡️ Joint Safety:* Prevents Valsalva "bearing down" to protect pelvic floor muscles and SI joint ligaments.
 
-### 2. **[Bridge Pose with Root Lock (Mula Bandha)](../../../pose_corrections/yoga/bridge_pose.md)**
+### 2. **[Setu Bandhasana with Mula Bandha (सेतुबन्धासन - Bridge Pose)](../../../pose_corrections/yoga/setu_bandhasana.md)**
 *   *Biomechanical Target:* Co-contracts levator ani with hip and spinal stabilizers.
 *   *🛡️ Joint Safety:* Uses a block between the thighs to activate adductors, stabilizing the SI joints and sacrum.
 
-### 3. **[High/Crescent Lunge Pelvic Alignment](../../../pose_corrections/yoga/crescent_lunge.md)**
+### 3. **[Anjaneyasana (अञ्जनेयासन - Crescent Lunge Pelvic Alignment)](../../../pose_corrections/yoga/anjaneyasana.md)**
 *   *Biomechanical Target:* Recruits TVA and Levator Ani to stabilize pelvic position under psoas stretch.
 *   *🛡️ Joint Safety:* Keeps back knee slightly bent to prevent lumbar compression and anterior pelvic tilt.
 

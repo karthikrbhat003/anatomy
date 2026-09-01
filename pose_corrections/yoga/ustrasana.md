@@ -1,4 +1,4 @@
-# 🧘‍♀️ Camel Pose (Ustrasana)
+# 🧘‍♀️ Ustrasana (उष्ट्रासन - Camel Pose)
 
 *   **Classification:** Sagittal plane neck/spine backbend; Closed Kinetic Chain (knees fixed).
 *   **Muscles Involved:**
