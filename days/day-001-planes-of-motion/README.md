@@ -20,20 +20,13 @@ To analyze human movement, biomechanists divide the body using three imaginary f
 
 Whenever a movement occurs along a plane, it rotates around an imaginary pin called an **axis of rotation**. The axis of rotation is always perpendicular ($90^\circ$) to the plane of motion itself.
 
-```mermaid
-graph TD
-    A[Planes of Motion] --> B(Sagittal Plane)
-    A --> C(Frontal Plane)
-    A --> D(Transverse Plane)
-    
-    B --> B1[Perpendicular Axis: Frontal/Coronal Axis]
-    C --> C1[Perpendicular Axis: Sagittal/Anteroposterior Axis]
-    D --> D1[Perpendicular Axis: Longitudinal/Vertical Axis]
-    
-    B1 --> B2["Movements: Flexion & Extension (Forward/Backward)"]
-    C1 --> C2["Movements: Abduction & Adduction (Side-to-Side)"]
-    D1 --> D2["Movements: Rotation (Twisting/Pivoting)"]
-```
+### 📐 Planes & Axes Master Comparison Matrix
+
+| Cardinal Plane | Slices Body Into | Perpendicular Axis ($90^\circ$) | Primary Joint Actions | Classic Exercises |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Sagittal Plane**<br>*(Forward / Backward)* | **Left & Right** halves | **Frontal (Mediolateral) Axis**<br>*(Side-to-side imaginary bar)* | • **Flexion** (bending forward)<br>• **Extension** (straightening)<br>• **Hyperextension** (backbend) | Squats, Push-ups, Bicep Curls, Pull-ups, Uttanasana |
+| **2. Frontal Plane**<br>*(Side-to-Side / Coronal)* | **Anterior (Front) & Posterior (Back)** halves | **Sagittal (Anteroposterior) Axis**<br>*(Front-to-back imaginary pin)* | • **Abduction** (away from midline)<br>• **Adduction** (toward midline)<br>• **Lateral Flexion** (side bend)<br>• **Elevation / Depression** | Lateral Raises, Jumping Jacks, Side Planks, Utthita Trikonasana |
+| **3. Transverse Plane**<br>*(Rotational / Horizontal)* | **Superior (Upper) & Inferior (Lower)** halves | **Longitudinal (Vertical) Axis**<br>*(Top-to-bottom vertical line)* | • **Internal / External Rotation**<br>• **Horizontal Ab/Adduction**<br>• **Pronation / Supination**<br>• **Spinal Rotation** | Russian Twists, Chest Flies, Down Dog armpit wrap |
 
 ---
 

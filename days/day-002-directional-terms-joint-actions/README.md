@@ -25,21 +25,20 @@ In anatomy, every spatial description assumes the body is in the **Standard Anat
 > [!NOTE]
 > All directional descriptions (e.g., *"the biceps are anterior to the triceps"*) apply **regardless** of whether the person is lying down, hanging from a pull-up bar, or upside-down in a headstand.
 
-```mermaid
-graph TD
-    A[Universal Coordinate System: Anatomical Position] --> B[Directional Axis Pairs]
-    A --> C[Joint Action Vocabulary]
-    
-    B --> B1[Superior / Inferior: Vertical Axis]
-    B --> B2[Anterior / Posterior: Front-to-Back Axis]
-    B --> B3[Medial / Lateral: Midline Relative]
-    B --> B4[Proximal / Distal: Limb Attachment Relative]
-    B --> B5[Superficial / Deep: Surface Depth Relative]
-    
-    C --> C1[Angular Movements: Flexion, Extension, Abduction, Adduction]
-    C --> C2[Rotational Movements: Internal/External Rotation, Pronation/Supination]
-    C --> C3[Special Scapular & Pelvic Actions: Protraction/Retraction, Elevation/Depression, Anterior/Posterior Tilt]
-```
+### 🧭 Spatial Coordinates & Movement Categories Master Matrix
+
+| Anatomical Dimension / Category | Paired Terminology | Reference Baseline | Interpretation & Movement Example |
+| :--- | :--- | :--- | :--- |
+| **Vertical Axis** | **Superior** (Cranial) vs. **Inferior** (Caudal) | Head vs. Feet | Cranial (toward skull) vs. Caudal (toward tail). *E.g., Head is superior to pelvis.* |
+| **Front-to-Back Axis** | **Anterior** (Ventral) vs. **Posterior** (Dorsal) | Front vs. Back of body | Ventral (belly side) vs. Dorsal (spine side). *E.g., Pecs are anterior to rhomboids.* |
+| **Midline Relative** | **Medial** vs. **Lateral** | Imaginary center line | Medial (closer to midline) vs. Lateral (further outward). *E.g., Sternum is medial to shoulders.* |
+| **Appendicular Limbs** | **Proximal** vs. **Distal** | Limb attachment point | Proximal (closer to trunk) vs. Distal (further down limb). *E.g., Elbow is proximal to wrist.* |
+| **Tissue Depth** | **Superficial** vs. **Deep** | Skin surface | Superficial (surface layer) vs. Deep (internal). *E.g., Trapezius is superficial to multifidus.* |
+| **Angular Movements** | **Flexion** vs. **Extension** | Joint angle | Decreasing angle / bending (flexion) vs. Increasing angle / straightening (extension). |
+| **Coronal Movements** | **Abduction** vs. **Adduction** | Body midline | Moving limb away from midline (abduction) vs. toward midline (adduction). |
+| **Rotational Movements** | **Internal** vs. **External Rotation** | Anterior bone surface | Rotating inward toward midline vs. rotating outward away from midline. |
+| **Scapular Mechanics** | **Protraction** vs. **Retraction**<br>**Elevation** vs. **Depression** | Shoulder blade position | Doming upper back vs. pinching blades together; shrugging up vs. packing down. |
+| **Pelvic Mechanics** | **Anterior Tilt (APT)** vs. **Posterior Tilt (PPT)** | Pelvic bowl angle | Tipping pelvis forward (arches lower back) vs. tucking tailbone (flattens lower back). |
 
 ---
 
