@@ -21,6 +21,7 @@ Welcome to the centralized movement biomechanics and joint safety library. This 
 *   **[Cobra Pose (Bhujangasana)](./yoga/cobra_pose.md)**: Thoracic backbend extension, preventing lumbar L5-S1 facet pinching.
 *   **[Shoulder Stand (Sarvangasana)](./yoga/shoulder_stand.md)**: Cervical lordosis protection, resting weight on outer shoulders.
 *   **[Camel Pose (Ustrasana)](./yoga/camel_pose.md)**: Eccentric neck flexion control, preventing vertebral artery compression.
+*   **[Supported Headstand (Shirshasana)](./yoga/shirshasana.md)**: 80/20 forearm load distribution and neutral crown alignment to eliminate cervical spine compression.
 *   **[Downward Dog (Adho Mukha Svanasana)](./yoga/downward_dog.md)**: Scapular upward rotation to clear the subacromial space.
 *   **[Wheel Pose (Urdhva Dhanurasana)](./yoga/wheel_pose.md)**: Parallel thigh alignment, avoiding sacral pinching and SI joint shear.
 *   **[Crescent Lunge (Anjaneyasana)](./yoga/crescent_lunge.md)**: Posterior pelvic tilt to release the back psoas without lower back compression.

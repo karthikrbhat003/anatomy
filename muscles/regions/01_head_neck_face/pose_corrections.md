@@ -32,6 +32,10 @@ For step-by-step instructions, joint safety notes, and sensory mind-muscle cues,
 *   *Biomechanical Target:* Eccentric cervical extension load control.
 *   *🛡️ Joint Safety:* Prevents passive head collapse and vertebral artery compression.
 
+### 5. **[Supported Headstand (Shirshasana)](../../../pose_corrections/yoga/shirshasana.md)**
+*   *Biomechanical Target:* Forearm-to-shoulder girdle elevation and deep neck flexor stabilization (Longus Colli/Capitis).
+*   *🛡️ Joint Safety:* Prevents axial cervical compression through 80/20 load distribution on forearms, exact bregma (crown) placement, and strict zero-rotation head rules.
+
 ---
 
 ## 🤸 Study & Practice Links
