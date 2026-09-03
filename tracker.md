@@ -5,9 +5,9 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ---
 
 ## 📊 Quick Progress Summary
-- **Module 1: Foundations of Movement Science** | 🟩 2/7 Days Completed
-- **Module 2: Shoulder Girdle & Upper Body** | ⬜ 0/7 Days Completed
-- **Module 3: Spine, Pelvis & Core** | ⬜ 0/7 Days Completed
+- **Module 1: Foundations of Movement Science** | 🟩 7/7 Days Completed (100%)
+- **Module 2: Shoulder Girdle & Upper Body** | 🟩 7/7 Days Completed (100%)
+- **Module 3: Spine, Pelvis & Core** | ⬜ 0/7 Days Completed (Next: Day 15)
 - **Module 4: Hip Girdle & Lower Body** | ⬜ 0/7 Days Completed
 - **Module 5: Neuromuscular Mechanics** | ⬜ 0/7 Days Completed
 - **Module 6: Systemic Anatomy & Organs** | ⬜ 0/5 Days Completed
@@ -28,22 +28,22 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 | :---: | :--- | :---: | :---: |
 | **01** | Planes of Motion & Axes of Rotation (Sagittal, Frontal, Transverse) | ✅ *Completed* | [Day 1 Notes](./days/day-001-planes-of-motion/README.md) |
 | **02** | Directional Terms & Joint Action Vocabulary | ✅ *Completed* | [Day 2 Notes](./days/day-002-directional-terms-joint-actions/README.md) |
-| **03** | The Skeletal System & Joint Classifications | 🔄 *In Progress* | [Day 3 Notes](./days/day-003-skeletal-system-joints/README.md) |
-| **04** | Skeletal Muscle Anatomy & Contraction Types | 🟥 *Not Started* | [Day 4 Notes](./days/day-004-muscle-anatomy-contractions/README.md) |
-| **05** | Muscle Roles & Joint Stabilization | 🟥 *Not Started* | [Day 5 Notes](./days/day-005-muscle-roles-stabilization/README.md) |
-| **06** | Connective Tissue, Fascia, & Viscoelasticity | 🟥 *Not Started* | [Day 6 Notes](./days/day-006-connective-tissue-fascia/README.md) |
-| **07** | Kinetic Chains (Open vs. Closed Kinetic Chains) & Module 1 Assessment | 🟥 *Not Started* | [Day 7 Notes](./days/day-007-kinetic-chains-assessment/README.md) |
+| **03** | The Skeletal System & Joint Classifications | ✅ *Completed* | [Day 3 Notes](./days/day-003-skeletal-system-joints/README.md) |
+| **04** | Skeletal Muscle Anatomy & Contraction Types | ✅ *Completed* | [Day 4 Notes](./days/day-004-muscle-anatomy-contractions/README.md) |
+| **05** | Muscle Roles & Joint Stabilization | ✅ *Completed* | [Day 5 Notes](./days/day-005-muscle-roles-stabilization/README.md) |
+| **06** | Connective Tissue, Fascia, & Viscoelasticity | ✅ *Completed* | [Day 6 Notes](./days/day-006-connective-tissue-fascia/README.md) |
+| **07** | Kinetic Chains (Open vs. Closed Kinetic Chains) & Module 1 Assessment | ✅ *Completed* | [Day 7 Notes](./days/day-007-kinetic-chains-assessment/README.md) |
 
 ### 🔵 Module 2: The Shoulder Girdle & Upper Body Biomechanics
 | Day | Topic | Status | Lesson Link |
 | :---: | :--- | :---: | :---: |
-| **08** | Scapulothoracic Joint & Scapular Movements | 🟥 *Not Started* | [Day 8 Link](./days/day-008-scapula-movements/README.md) |
-| **09** | Glenohumeral Joint & The Rotator Cuff | 🟥 *Not Started* | [Day 9 Link](./days/day-009-shoulder-rotator-cuff/README.md) |
-| **10** | Scapulohumeral Rhythm & Shoulder Impingement | 🟥 *Not Started* | [Day 10 Link](./days/day-010-shoulder-impingement/README.md) |
-| **11** | Biomechanics of Upper Body Pushing | 🟥 *Not Started* | [Day 11 Link](./days/day-011-biomechanics-pushing/README.md) |
-| **12** | Biomechanics of Upper Body Pulling | 🟥 *Not Started* | [Day 12 Link](./days/day-012-biomechanics-pulling/README.md) |
-| **13** | Handstand & Overhead Biomechanics | 🟥 *Not Started* | [Day 13 Link](./days/day-013-handstand-overhead/README.md) |
-| **14** | Wrist, Hand, and Elbow Stability & Module 2 Assessment | 🟥 *Not Started* | [Day 14 Link](./days/day-014-wrist-elbow-stability/README.md) |
+| **08** | Scapulothoracic Joint & Scapular Movements | ✅ *Completed* | [Day 8 Notes](./days/day-008-scapula-movements/README.md) |
+| **09** | Glenohumeral Joint & The Rotator Cuff | ✅ *Completed* | [Day 9 Notes](./days/day-009-shoulder-rotator-cuff/README.md) |
+| **10** | Scapulohumeral Rhythm & Shoulder Impingement | ✅ *Completed* | [Day 10 Notes](./days/day-010-shoulder-impingement/README.md) |
+| **11** | Biomechanics of Upper Body Pushing | ✅ *Completed* | [Day 11 Notes](./days/day-011-biomechanics-pushing/README.md) |
+| **12** | Biomechanics of Upper Body Pulling | ✅ *Completed* | [Day 12 Notes](./days/day-012-biomechanics-pulling/README.md) |
+| **13** | Handstand & Overhead Biomechanics | ✅ *Completed* | [Day 13 Notes](./days/day-013-handstand-overhead/README.md) |
+| **14** | Wrist, Hand, and Elbow Stability & Module 2 Assessment | ✅ *Completed* | [Day 14 Notes](./days/day-014-wrist-elbow-stability/README.md) |
 
 ### 🟡 Module 3: Spine, Pelvis & Core Biomechanics
 | Day | Topic | Status | Lesson Link |
