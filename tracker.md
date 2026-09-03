@@ -5,7 +5,7 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ---
 
 ## 📊 Quick Progress Summary
-- **Module 1: Foundations of Movement Science** | 🟩 1/7 Days Completed
+- **Module 1: Foundations of Movement Science** | 🟩 2/7 Days Completed
 - **Module 2: Shoulder Girdle & Upper Body** | ⬜ 0/7 Days Completed
 - **Module 3: Spine, Pelvis & Core** | ⬜ 0/7 Days Completed
 - **Module 4: Hip Girdle & Lower Body** | ⬜ 0/7 Days Completed
@@ -27,8 +27,8 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 | Day | Topic | Status | Lesson Link |
 | :---: | :--- | :---: | :---: |
 | **01** | Planes of Motion & Axes of Rotation (Sagittal, Frontal, Transverse) | ✅ *Completed* | [Day 1 Notes](./days/day-001-planes-of-motion/README.md) |
-| **02** | Directional Terms & Joint Action Vocabulary | 🔄 *In Progress* | [Day 2 Notes](./days/day-002-directional-terms-joint-actions/README.md) |
-| **03** | The Skeletal System & Joint Classifications | 🟥 *Not Started* | [Day 3 Notes](./days/day-003-skeletal-system-joints/README.md) |
+| **02** | Directional Terms & Joint Action Vocabulary | ✅ *Completed* | [Day 2 Notes](./days/day-002-directional-terms-joint-actions/README.md) |
+| **03** | The Skeletal System & Joint Classifications | 🔄 *In Progress* | [Day 3 Notes](./days/day-003-skeletal-system-joints/README.md) |
 | **04** | Skeletal Muscle Anatomy & Contraction Types | 🟥 *Not Started* | [Day 4 Notes](./days/day-004-muscle-anatomy-contractions/README.md) |
 | **05** | Muscle Roles & Joint Stabilization | 🟥 *Not Started* | [Day 5 Notes](./days/day-005-muscle-roles-stabilization/README.md) |
 | **06** | Connective Tissue, Fascia, & Viscoelasticity | 🟥 *Not Started* | [Day 6 Notes](./days/day-006-connective-tissue-fascia/README.md) |
