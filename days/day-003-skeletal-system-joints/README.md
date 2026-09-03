@@ -20,20 +20,14 @@
 ### 🦴 1. The Human Skeletal Framework (206 Adult Bones)
 The adult human skeleton is organized into two primary structural divisions:
 
-```mermaid
-graph TD
-    A[Human Skeleton: 206 Bones] --> B[Axial Skeleton: 80 Bones]
-    A --> C[Appendicular Skeleton: 126 Bones]
-    
-    B --> B1[Skull & Associated: 29 Bones]
-    B --> B2[Vertebral Column: 26 Bones]
-    B --> B3[Thoracic Cage: 25 Bones]
-    
-    C --> C1[Pectoral Girdles: 4 Bones]
-    C --> C2[Upper Limbs: 60 Bones]
-    C --> C3[Pelvic Girdle: 2 Bones]
-    C --> C4[Lower Limbs: 60 Bones]
-```
+### 🦴 Master Framework: Skeletal Divisions & Regional Bone Inventory
+
+| Skeletal Division | Total Bone Count | Regional Subdivisions & Bone Inventory | Primary Biomechanical Function |
+| :--- | :---: | :--- | :--- |
+| **1. Axial Skeleton**<br>*(Central Longitudinal Core)* | **80 Bones** | • **Skull & Associated (29):** Cranium (8), Face (14), Auditory Ossicles (6), Hyoid (1)<br>• **Vertebral Column (26):** Cervical (7), Thoracic (12), Lumbar (5), Sacrum (1), Coccyx (1)<br>• **Thoracic Cage (25):** Ribs (24), Sternum (1) | **Protection & Axial Posture:** Encloses brain, spinal cord, and thoracic organs; provides origin anchors for respiratory & spinal muscles. |
+| **2. Appendicular Skeleton**<br>*(Limbs & Girdles)* | **126 Bones** | • **Pectoral Girdle (4):** Clavicles (2), Scapulae (2)<br>• **Upper Limbs (60):** Humerus (2), Radius (2), Ulna (2), Carpals (16), Metacarpals (10), Phalanges (28)<br>• **Pelvic Girdle (2):** Coxal Hip Bones (2)<br>• **Lower Limbs (60):** Femur (2), Patella (2), Tibia (2), Fibula (2), Tarsals (14), Metatarsals (10), Phalanges (28) | **Locomotion & Force Transmission:** Maximizes multi-planar movement, ground reaction force absorption, and manipulation. |
+
+---
 
 *   **Axial Skeleton (80 Bones):** Forms the central longitudinal axis of the body. Its primary function is **protection** of vital organs (brain, spinal cord, heart, lungs) and providing central postural anchor points.
     *   *Skull (22 bones)* + *Auditory Ossicles (6)* + *Hyoid Bone (1)* = 29 bones.
