@@ -8,8 +8,8 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 - **Module 1: Foundations of Movement Science** | 🟩 7/7 Days Completed (100%)
 - **Module 2: Shoulder Girdle & Upper Body** | 🟩 7/7 Days Completed (100%)
 - **Module 3: Spine, Pelvis & Core** | 🟩 7/7 Days Completed (100%)
-- **Module 4: Hip Girdle & Lower Body** | ⬜ 0/7 Days Completed (Next: Day 22)
-- **Module 5: Neuromuscular Mechanics** | ⬜ 0/7 Days Completed
+- **Module 4: Hip Girdle & Lower Body** | 🟩 7/7 Days Completed (100%)
+- **Module 5: Neuromuscular Mechanics** | ⬜ 0/7 Days Completed (Next: Day 29)
 - **Module 6: Systemic Anatomy & Organs** | ⬜ 0/5 Days Completed
 
 ---
@@ -59,13 +59,13 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ### 🟠 Module 4: Hip Girdle & Lower Body Biomechanics
 | Day | Topic | Status | Lesson Link |
 | :---: | :--- | :---: | :---: |
-| **22** | Hip Joint Anatomy | 🟥 *Not Started* | [Day 22 Link](./days/day-022-hip-anatomy/README.md) |
-| **23** | Hip Flexor Tightness & Reciprocal Inhibition | 🟥 *Not Started* | [Day 23 Link](./days/day-023-hip-flexor-tightness/README.md) |
-| **24** | Hip Abduction, Adduction & Single-Leg Balance | 🟥 *Not Started* | [Day 24 Link](./days/day-024-hip-stability-balance/README.md) |
-| **25** | Hamstring Mechanics & Forward Bends | 🟥 *Not Started* | [Day 25 Link](./days/day-025-hamstrings-forward-bends/README.md) |
-| **26** | The Knee Joint | 🟥 *Not Started* | [Day 26 Link](./days/day-026-knee-joint/README.md) |
-| **27** | Ankle and Foot Complex | 🟥 *Not Started* | [Day 27 Link](./days/day-027-ankle-foot-complex/README.md) |
-| **28** | Integrated Lower Body Biomechanics & Module 4 Assessment | 🟥 *Not Started* | [Day 28 Link](./days/day-028-lower-body-biomechanics/README.md) |
+| **22** | Hip Joint Anatomy & Bony Geometry | ✅ *Completed* | [Day 22 Notes](./days/day-022-hip-anatomy/README.md) |
+| **23** | Hip Flexor Tightness & Reciprocal Inhibition | ✅ *Completed* | [Day 23 Notes](./days/day-023-hip-flexor-tightness/README.md) |
+| **24** | Hip Abduction, Adduction & Single-Leg Balance | ✅ *Completed* | [Day 24 Notes](./days/day-024-hip-stability-balance/README.md) |
+| **25** | Hamstring Mechanics & Forward Bends | ✅ *Completed* | [Day 25 Notes](./days/day-025-hamstrings-forward-bends/README.md) |
+| **26** | Knee Joint Ligaments & Meniscal Mechanics | ✅ *Completed* | [Day 26 Notes](./days/day-026-knee-joint/README.md) |
+| **27** | Ankle and Foot Complex & Windlass Mechanism | ✅ *Completed* | [Day 27 Notes](./days/day-027-ankle-foot-complex/README.md) |
+| **28** | Lower Body Squat Biomechanics & Module 4 Assessment | ✅ *Completed* | [Day 28 Notes](./days/day-028-lower-body-biomechanics/README.md) |
 
 ### 🔴 Module 5: Neuromuscular Mechanics & Injury Prevention
 | Day | Topic | Status | Lesson Link |
