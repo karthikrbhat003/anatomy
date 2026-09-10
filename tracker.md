@@ -7,8 +7,8 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ## 📊 Quick Progress Summary
 - **Module 1: Foundations of Movement Science** | 🟩 7/7 Days Completed (100%)
 - **Module 2: Shoulder Girdle & Upper Body** | 🟩 7/7 Days Completed (100%)
-- **Module 3: Spine, Pelvis & Core** | ⬜ 0/7 Days Completed (Next: Day 15)
-- **Module 4: Hip Girdle & Lower Body** | ⬜ 0/7 Days Completed
+- **Module 3: Spine, Pelvis & Core** | 🟩 7/7 Days Completed (100%)
+- **Module 4: Hip Girdle & Lower Body** | ⬜ 0/7 Days Completed (Next: Day 22)
 - **Module 5: Neuromuscular Mechanics** | ⬜ 0/7 Days Completed
 - **Module 6: Systemic Anatomy & Organs** | ⬜ 0/5 Days Completed
 
@@ -48,13 +48,13 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ### 🟡 Module 3: Spine, Pelvis & Core Biomechanics
 | Day | Topic | Status | Lesson Link |
 | :---: | :--- | :---: | :---: |
-| **15** | Vertebral Column Anatomy | 🟥 *Not Started* | [Day 15 Link](./days/day-015-spine-anatomy/README.md) |
-| **16** | Pelvic Tilts & Postural Adaptations | 🟥 *Not Started* | [Day 16 Link](./days/day-016-pelvic-tilts/README.md) |
-| **17** | The Core: Deep Stabilizers vs. Superficial Movers | 🟥 *Not Started* | [Day 17 Link](./days/day-017-core-stabilizers/README.md) |
-| **18** | Biomechanics of Core Bracing & Posterior Chain | 🟥 *Not Started* | [Day 18 Link](./days/day-018-core-bracing-posterior-chain/README.md) |
-| **19** | Spinal Extension and Backbends | 🟥 *Not Started* | [Day 19 Link](./days/day-019-spine-extension-backbends/README.md) |
-| **20** | Spinal Rotation and Lateral Flexion | 🟥 *Not Started* | [Day 20 Link](./days/day-020-spine-rotation-flexion/README.md) |
-| **21** | Structural Postural Assessment & Module 3 Assessment | 🟥 *Not Started* | [Day 21 Link](./days/day-021-postural-assessment/README.md) |
+| **15** | Vertebral Column Anatomy | ✅ *Completed* | [Day 15 Notes](./days/day-015-spine-anatomy/README.md) |
+| **16** | Pelvic Tilts & Postural Adaptations | ✅ *Completed* | [Day 16 Notes](./days/day-016-pelvic-tilts/README.md) |
+| **17** | The Core: Deep Stabilizers vs. Superficial Movers | ✅ *Completed* | [Day 17 Notes](./days/day-017-core-stabilizers/README.md) |
+| **18** | Biomechanics of Core Bracing & Posterior Chain | ✅ *Completed* | [Day 18 Notes](./days/day-018-core-bracing-posterior-chain/README.md) |
+| **19** | Spinal Extension and Backbends | ✅ *Completed* | [Day 19 Notes](./days/day-019-spine-extension-backbends/README.md) |
+| **20** | Spinal Rotation and Lateral Flexion | ✅ *Completed* | [Day 20 Notes](./days/day-020-spine-rotation-flexion/README.md) |
+| **21** | Structural Postural Assessment & Module 3 Assessment | ✅ *Completed* | [Day 21 Notes](./days/day-021-postural-assessment/README.md) |
 
 ### 🟠 Module 4: Hip Girdle & Lower Body Biomechanics
 | Day | Topic | Status | Lesson Link |
