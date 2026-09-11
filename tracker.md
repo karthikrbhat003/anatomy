@@ -9,8 +9,8 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 - **Module 2: Shoulder Girdle & Upper Body** | 🟩 7/7 Days Completed (100%)
 - **Module 3: Spine, Pelvis & Core** | 🟩 7/7 Days Completed (100%)
 - **Module 4: Hip Girdle & Lower Body** | 🟩 7/7 Days Completed (100%)
-- **Module 5: Neuromuscular Mechanics** | ⬜ 0/7 Days Completed (Next: Day 29)
-- **Module 6: Systemic Anatomy & Organs** | ⬜ 0/5 Days Completed
+- **Module 5: Neuromuscular Mechanics** | 🟩 7/7 Days Completed (100%)
+- **Module 6: Systemic Anatomy & Organs** | ⬜ 0/5 Days Completed (Next: Day 36)
 
 ---
 
@@ -70,13 +70,13 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ### 🔴 Module 5: Neuromuscular Mechanics & Injury Prevention
 | Day | Topic | Status | Lesson Link |
 | :---: | :--- | :---: | :---: |
-| **29** | Proprioception & Somatosensory Feedback | 🟥 *Not Started* | [Day 29 Link](./days/day-029-proprioception/README.md) |
-| **30** | Stretch Reflex & Active vs. Passive Flexibility | 🟥 *Not Started* | [Day 30 Link](./days/day-030-stretch-reflex-flexibility/README.md) |
-| **31** | Fascial Lines & Myofascial Meridians | 🟥 *Not Started* | [Day 31 Link](./days/day-031-fascial-lines/README.md) |
-| **32** | Respiration Biomechanics & Intra-abdominal Pressure (IAP) | 🟥 *Not Started* | [Day 32 Link](./days/day-032-respiration-iap/README.md) |
-| **33** | Joint Laxity vs. Muscle Stiffness | 🟥 *Not Started* | [Day 33 Link](./days/day-033-joint-laxity-stiffness/README.md) |
-| **34** | Common Movement Compensations & Corrections | 🟥 *Not Started* | [Day 34 Link](./days/day-034-movement-compensations/README.md) |
-| **35** | Designing a Joint Prep & Warm-up Routine & Module 5 Assessment | 🟥 *Not Started* | [Day 35 Link](./days/day-035-joint-prep-warmup/README.md) |
+| **29** | Proprioception & Somatosensory Feedback | ✅ *Completed* | [Day 29 Notes](./days/day-029-proprioception/README.md) |
+| **30** | Stretch Reflex & Active vs. Passive Flexibility | ✅ *Completed* | [Day 30 Notes](./days/day-030-stretch-reflex-flexibility/README.md) |
+| **31** | Fascial Lines & Myofascial Meridians | ✅ *Completed* | [Day 31 Notes](./days/day-031-fascial-lines/README.md) |
+| **32** | Respiration Biomechanics & Intra-abdominal Pressure (IAP) | ✅ *Completed* | [Day 32 Notes](./days/day-032-respiration-iap/README.md) |
+| **33** | Joint Laxity vs. Muscle Stiffness & Hypermobility | ✅ *Completed* | [Day 33 Notes](./days/day-033-joint-laxity-stiffness/README.md) |
+| **34** | Common Movement Compensations & Corrections | ✅ *Completed* | [Day 34 Notes](./days/day-034-movement-compensations/README.md) |
+| **35** | Designing a Joint Prep & Warm-up Routine & Module 5 Assessment | ✅ *Completed* | [Day 35 Notes](./days/day-035-joint-prep-warmup/README.md) |
 
 ### 🟣 Module 6: Systemic Anatomy & Internal Organs
 | Day | Topic | Status | Lesson Link |
