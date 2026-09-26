@@ -1,48 +1,72 @@
 # 🧘‍♂️ Master Directory: Pose Corrections & Movement Science
 
-Welcome to the centralized movement biomechanics and joint safety library. This directory houses detailed proper form guides, common errors, joint strain prevention tips, and sensory activation cues organized by training modality:
+Welcome to the centralized movement biomechanics and joint safety library. This directory houses detailed proper form guides, common errors, joint strain prevention tips, and sensory activation cues organized by training modality.
 
 ---
 
 ## 📂 Categories & Movement Index
 
 ### 🤸‍♂️ 1. Calisthenics Progression
-*   **[Active Hanging & Scapular Pull-ups](./calisthenics/active_hanging.md)**: Scapular retraction/depression to protect the shoulder joint capsule.
-*   **[Pull-ups & Lat Pulldowns](./calisthenics/pull_ups.md)**: Vertical pulling mechanics, keeping elbows forward to avoid rotator cuff pinching.
-*   **[Parallel Bar Dips](./calisthenics/dips.md)**: Upper body pushing, keeping the chest proud and elbows tucked back to prevent anterior humeral glide.
-*   **[Handstand Balancing & Pushups](./calisthenics/handstands.md)**: Triangulating hand/head placement and active fingertip clawing to protect acromion and wrist joints.
-*   **[L-Sit Hold](./calisthenics/l_sit.md)**: Depressing the shoulder girdle and lifting the legs using the iliopsoas without neck compression.
-*   **[Push-ups & Planks](./calisthenics/push_ups.md)**: Core bracing (TVA activation) to prevent anterior pelvic tilt and lower back shear.
+| Exercise / Skill | Primary Movement Plane & Focus | Key Joint Protection & Alignment Cue | Link |
+| :--- | :--- | :--- | :--- |
+| **Active Hanging & Scapular Pull-ups** | Coronal / Sagittal; Scapular control | Active depression/retraction to protect shoulder joint capsule | [Guide](./calisthenics/active_hanging.md) |
+| **Pull-ups & Lat Pulldowns** | Sagittal / Frontal; Vertical pull | Lead with sternum, elbows forward to avoid subacromial impingement | [Guide](./calisthenics/pull_ups.md) |
+| **Parallel Bar Dips** | Sagittal; Vertical push | Proud chest, elbows tucked to $45^\circ$ to prevent anterior humeral glide | [Guide](./calisthenics/dips.md) |
+| **Handstand Balancing & Push-ups** | Sagittal / Frontal; Vertical overhead | Camber hand grip, tripod descent, clearing subacromial space | [Guide](./calisthenics/handstands.md) |
+| **L-Sit Hold** | Sagittal; Isometric compression | Scapular depression, iliopsoas/rectus abdominis active engagement | [Guide](./calisthenics/l_sit.md) |
+| **Push-ups & Planks** | Sagittal; Horizontal push | Posterior pelvic tilt and TVA bracing to avoid lumbar extension shear | [Guide](./calisthenics/push_ups.md) |
+| **Planche & Planche Lean** | Sagittal; Straight-arm horizontal push | Scapular protraction/depression; conditioning distal biceps tendon | [Guide](./calisthenics/planche.md) |
+| **Front Lever** | Sagittal; Straight-arm horizontal pull | Scapular depression, lats activation, rigid anti-extension core lock | [Guide](./calisthenics/front_lever.md) |
+| **Bar & Ring Muscle-Up** | Multi-planar; Pull-to-push transition | False grip, simultaneous dual-elbow transition to prevent SLAP tears | [Guide](./calisthenics/muscle_up.md) |
+| **Pistol Squat (Single-Leg)** | Sagittal; Unilateral knee/hip flexion | Gluteus medius knee tracking, tripod foot, avoiding valgus collapse | [Guide](./calisthenics/pistol_squats.md) |
+| **Dragon Flag** | Sagittal; Straight-body core anti-extension | Thoracic pivot shelf; maintaining rigid posterior pelvic tilt | [Guide](./calisthenics/dragon_flag.md) |
+| **Back Lever** | Sagittal; Straight-arm hyperextension | Connective tissue prep for distal biceps and anterior capsule | [Guide](./calisthenics/back_lever.md) |
 
 ---
 
 ### 🧘‍♀️ 2. Yoga Asanas
-*   **[Jalandhara Bandha / Griva Sanchalana (जालंधर बन्ध / ग्रीवा सञ्चालन)](./yoga/jalandhara_bandha.md)**: Deep cervical flexor activation (Longus Colli/Capitis) to reverse Tech-Neck.
-*   **[Bhujangasana (भुजङ्गासन - Cobra Pose)](./yoga/bhujangasana.md)**: Thoracic backbend extension, preventing lumbar L5-S1 facet pinching.
-*   **[Salamba Sarvangasana (सालम्ब सर्वाङ्गासन - Supported Shoulder Stand)](./yoga/salamba_sarvangasana.md)**: Cervical lordosis protection, resting weight on outer shoulders.
-*   **[Ustrasana (उष्ट्रासन - Camel Pose)](./yoga/ustrasana.md)**: Eccentric neck flexion control, preventing vertebral artery compression.
-*   **[Salamba Shirshasana (सालम्ब शीर्षासन - Supported Headstand)](./yoga/salamba_shirshasana.md)**: 80/20 forearm load distribution and neutral crown alignment to eliminate cervical spine compression.
-*   **[Adho Mukha Svanasana (अधोमुखश्वानासन - Downward-Facing Dog)](./yoga/adho_mukha_svanasana.md)**: Scapular upward rotation to clear the subacromial space.
-*   **[Urdhva Dhanurasana / Chakrasana (ऊर्ध्वधनुरासन / चक्रासन - Wheel Pose)](./yoga/urdhva_dhanurasana.md)**: Parallel thigh alignment, avoiding sacral pinching and SI joint shear.
-*   **[Anjaneyasana (अञ्जनेयासन - Crescent Lunge)](./yoga/anjaneyasana.md)**: Posterior pelvic tilt to release the back psoas without lower back compression.
-*   **[Setu Bandhasana (सेतुबन्धासन - Bridge Pose)](./yoga/setu_bandhasana.md)**: Adductor/pelvic floor co-activation to stabilize the pubic symphysis.
-*   **[Kakasana / Bakasana (काकासन / बकासन - Crow & Crane Pose)](./yoga/kakasana.md)**: Scapular protraction to distribute load away from wrist joints.
-*   **[Uttanasana (उत्तानासन - Standing Forward Fold)](./yoga/uttanasana.md)**: Quadriceps engagement (reciprocal inhibition) to release hamstring tendons safely.
-*   **[Vrikshasana (वृक्षासन - Tree Pose)](./yoga/vrikshasana.md)**: Standing leg Gluteus Medius engagement to prevent lateral hip flaring and pelvic drop.
-*   **[Utthita Trikonasana (उत्थित त्रिकोणासन - Extended Triangle Pose)](./yoga/utthita_trikonasana.md)**: Frontal plane hinge, stabilizing standing knees and hips to avoid hyperextension.
+| Asana (Sanskrit & English) | Category & Plane | Anatomical Focus & Joint Safety Rule | Link |
+| :--- | :--- | :--- | :--- |
+| **Jalandhara Bandha / Griva Sanchalana** | Cervical alignment | Deep cervical flexor activation (*Longus Colli*) to reverse Tech-Neck | [Guide](./yoga/jalandhara_bandha.md) |
+| **Bhujangasana (भुजङ्गासन - Cobra)** | Thoracic extension | Expanding upper thoracic spine to prevent $L_5\text{–}S_1$ facet pinching | [Guide](./yoga/bhujangasana.md) |
+| **Salamba Sarvangasana (सालम्ब सर्वाङ्गासन - Shoulder Stand)** | Inversion; Sagittal | Bearing weight on outer shoulder shelf, protecting cervical lordosis | [Guide](./yoga/salamba_sarvangasana.md) |
+| **Ustrasana (उष्ट्रासन - Camel)** | Spinal extension | Psoas lengthening, eccentric neck control to protect vertebral arteries | [Guide](./yoga/ustrasana.md) |
+| **Salamba Shirshasana (सालम्ब शीर्षासन - Headstand)** | Inversion; Axial | $80/20$ forearm-to-crown load distribution; neutral cervical spine | [Guide](./yoga/salamba_shirshasana.md) |
+| **Adho Mukha Svanasana (अधोमुखश्वानासन - Downward Dog)** | Inversion; Multi-planar | Upward scapular rotation, external humerus rotation, hamstring safety | [Guide](./yoga/adho_mukha_svanasana.md) |
+| **Urdhva Dhanurasana / Chakrasana (चक्रासन - Wheel)** | Full backbend | Parallel thighs, adductor activation to prevent SI joint compression | [Guide](./yoga/urdhva_dhanurasana.md) |
+| **Anjaneyasana (अञ्जनेयासन - Crescent Lunge)** | Asymmetric hip opening | Posterior pelvic tilt to decompress lumbar spine and lengthen psoas | [Guide](./yoga/anjaneyasana.md) |
+| **Setu Bandhasana (सेतुबन्धासन - Bridge)** | Supine hip extension | Glute-adductor co-activation to stabilize the pubic symphysis | [Guide](./yoga/setu_bandhasana.md) |
+| **Kakasana / Bakasana (काकासन - Crow / Crane)** | Arm balance | Strong scapular protraction and finger clawing to protect carpal joints | [Guide](./yoga/kakasana.md) |
+| **Uttanasana (उत्तानासन - Standing Forward Fold)** | Forward fold; Sagittal | Quadriceps reciprocal inhibition to protect ischial hamstring origins | [Guide](./yoga/uttanasana.md) |
+| **Vrikshasana (वृक्षासन - Tree Pose)** | Single-leg balance | Standing Gluteus Medius engagement to prevent lateral pelvic drop | [Guide](./yoga/vrikshasana.md) |
+| **Utthita Trikonasana (त्रिकोणासन - Triangle Pose)** | Frontal plane hinge | Micro-bend in lead knee to prevent hyperextension and capsular strain | [Guide](./yoga/utthita_trikonasana.md) |
+| **Chaturanga Dandasana (चतुरङ्ग दण्डासन - Four-Limbed Staff)** | Low horizontal push | Strict $90^\circ$ elbow lock, preventing anterior humeral head drop | [Guide](./yoga/chaturanga_dandasana.md) |
+| **Virabhadrasana II (वीरभद्रासन २ - Warrior II)** | Standing hip opener | Lead knee tracking over second toe, preventing MCL valgus collapse | [Guide](./yoga/virabhadrasana_ii.md) |
+| **Ardha Chandrasana (अर्धचन्द्रासन - Half Moon)** | Single-leg lateral balance | Stacking hips, firing standing outer glute, avoiding knee hyperextension | [Guide](./yoga/ardha_chandrasana.md) |
+| **Paschimottanasana (पश्चिमोत्तानासन - Seated Forward Bend)** | Seated fold; Sagittal | Anterior pelvic tilt from sits bones to protect lumbar discs ($L_4\text{–}S_1$) | [Guide](./yoga/paschimottanasana.md) |
+| **Ardha Matsyendrasana (अर्धमत्स्येन्द्रासन - Seated Twist)** | Transverse rotation | Axial elongation before twist; $85\%$ rotation through thoracic spine | [Guide](./yoga/ardha_matsyendrasana.md) |
+| **Garudasana (गरुडासन - Eagle Pose)** | Balance / Joint binding | Deep adductor/hip squeeze without torquing the knee joint | [Guide](./yoga/garudasana.md) |
+| **Pincha Mayurasana (पिञ्च मयूरासन - Forearm Stand)** | Inversion / Shoulder push | Parallel forearms, active shoulder elevation, avoiding banana-back sag | [Guide](./yoga/pincha_mayurasana.md) |
+| **Matsyasana (मत्स्यासन - Fish Pose)** | Thoracic extension | $90\%$ weight on elbows and forearms; crown feather-touch to protect neck | [Guide](./yoga/matsyasana.md) |
 
 ---
 
 ### 🏋️ 3. Gym / Weight Training
-*   **[Barbell Back Squat](./gym/squats.md)**: Knee tracking (preventing valgus collapse) and maintaining neutral lumbar spine.
-*   **[Conventional & Romanian Deadlifts](./gym/deadlift.md)**: Hinging at the hips, keeping the bar close, and maintaining a flat spine under load.
-*   **[Barbell & Dumbbell Overhead Press](./gym/overhead_press.md)**: Neutral spine alignment, avoiding lower back arching, and keeping elbows tucked forward.
-*   **[Barbell Bench Press](./gym/bench_press.md)**: Scapular retraction and tucking elbows to $45^\circ$ to prevent rotator cuff impingement.
-*   **[Barbell Rows & Lat Pulldowns](./gym/rows_pulldowns.md)**: Hinging stability and leading with the elbows to prevent lumbar shear.
+| Exercise | Primary Biomechanical Classification | Key Joint Safety & Performance Cue | Link |
+| :--- | :--- | :--- | :--- |
+| **Barbell Back Squat** | Bilateral knee/hip flexion; Sagittal | Knee tracking over toes, bracing IAP, avoiding lumbar butt-wink | [Guide](./gym/squats.md) |
+| **Conventional Deadlift** | Bilateral hip hinge; Posterior chain | Neutral lumbar spine, bar close to shins, lat lock to reduce moment arm | [Guide](./gym/deadlift.md) |
+| **Barbell Romanian Deadlift (RDL)** | Hip hinge; Eccentric hamstrings | Fixed knee micro-bend, pure pelvic setback, zero lumbar spinal flexion | [Guide](./gym/romanian_deadlift.md) |
+| **Bulgarian Split Squat** | Unilateral knee/hip flexion | $85\%$ front leg load, slight torso lean to load glutes, knee tracking | [Guide](./gym/bulgarian_split_squat.md) |
+| **Barbell Hip Thrust** | Supine hip extension; Sagittal | Vertical shins at lockout, chin tucked, posterior pelvic tilt peak squeeze | [Guide](./gym/hip_thrust.md) |
+| **Barbell Overhead Press** | Vertical push; Sagittal/Frontal | Squeeze glutes and abs to prevent lumbar hyperextension; elbows forward | [Guide](./gym/overhead_press.md) |
+| **Barbell Bench Press** | Horizontal push; Sagittal/Frontal | Scapular retraction/depression, $45^\circ$ elbow tuck to protect rotator cuff | [Guide](./gym/bench_press.md) |
+| **Dumbbell Lateral Raise** | Shoulder abduction; Scapular plane | Lift in scapular plane ($30^\circ$ anterior); neutral rotation to clear acromion | [Guide](./gym/lateral_raises.md) |
+| **Barbell Rows & Lat Pulldowns** | Horizontal/Vertical pull | Hinging stability, lead with elbows, avoid cervical and lumbar shear | [Guide](./gym/rows_pulldowns.md) |
 
 ---
 
 ## 🔗 Master Databases
-*   **[Master Muscle Directory](../muscles/README.md)**
-*   **[Master Skeletal Directory](../bones/README.md)**
-*   **[Master Skeletomuscular Map](../muscles/guides/skeletomuscular_map.md)**
+* **[Master Muscle Directory](../muscles/README.md)**
+* **[Master Skeletal Directory](../bones/README.md)**
+* **[Master Skeletomuscular Map](../muscles/guides/skeletomuscular_map.md)**

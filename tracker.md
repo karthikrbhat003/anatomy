@@ -10,7 +10,7 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 - **Module 3: Spine, Pelvis & Core** | 🟩 7/7 Days Completed (100%)
 - **Module 4: Hip Girdle & Lower Body** | 🟩 7/7 Days Completed (100%)
 - **Module 5: Neuromuscular Mechanics** | 🟩 7/7 Days Completed (100%)
-- **Module 6: Systemic Anatomy & Organs** | ⬜ 0/5 Days Completed (Next: Day 36)
+- **Module 6: Systemic Anatomy & Organs** | 🟩 5/5 Days Ready (Days 36–40)
 
 ---
 
@@ -81,8 +81,8 @@ Welcome to your daily learning companion! This tracker is designed to guide you 
 ### 🟣 Module 6: Systemic Anatomy & Internal Organs
 | Day | Topic | Status | Lesson Link |
 | :---: | :--- | :---: | :---: |
-| **36** | Cardiovascular System | 🟥 *Not Started* | [Day 36 Link](./days/day-036-cardiovascular-system/README.md) |
-| **37** | Respiratory System | 🟥 *Not Started* | [Day 37 Link](./days/day-037-respiratory-system/README.md) |
-| **38** | Digestive System | 🟥 *Not Started* | [Day 38 Link](./days/day-038-digestive-system/README.md) |
-| **39** | Lymphatic & Immune Systems | 🟥 *Not Started* | [Day 39 Link](./days/day-039-lymphatic-immune-systems/README.md) |
-| **40** | Endocrine & Nervous Systems Integration | 🟥 *Not Started* | [Day 40 Link](./days/day-040-endocrine-nervous-integration/README.md) |
+| **36** | Cardiovascular System: Anatomy, Hemodynamics & Inversion Physiology | 🟢 *Ready* | [Day 36 Notes](./days/day-036-cardiovascular-system/README.md) |
+| **37** | Respiratory System: Pulmonary Anatomy, Gas Exchange & Pranayama | 🟢 *Ready* | [Day 37 Notes](./days/day-037-respiratory-system/README.md) |
+| **38** | Digestive System: GI Anatomy, Visceral Fascia & Core Twists | 🟢 *Ready* | [Day 38 Notes](./days/day-038-digestive-system/README.md) |
+| **39** | Lymphatic & Immune Systems: Vessels, Thoracic Duct & Inversions | 🟢 *Ready* | [Day 39 Notes](./days/day-039-lymphatic-immune-systems/README.md) |
+| **40** | Endocrine & Nervous Integration & Module 6 Synthesis Assessment | 🟢 *Ready* | [Day 40 Notes](./days/day-040-endocrine-nervous-integration/README.md) |
